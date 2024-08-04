@@ -3,7 +3,7 @@
 Paper
     Searching for MobileNetV3 - https://arxiv.org/abs/1905.02244v5
 
-author : shubham.aiengineer@gmail.com
+author : swajaynandanwade04@gmail.com
 """
 
 
